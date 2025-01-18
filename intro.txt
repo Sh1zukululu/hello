@@ -1,0 +1,10 @@
+计算机体系结构、并行与分布计算、存储系统——PPoPP、DAC、ASPLOS、EuroSys
+网络与信息安全——CCS、S&P、NDSS、USERNIX Security
+人工智能——NeurIPS、ICML、ICLR
+交叉、综合、新兴——WWW
+
+GNN高效隐私感知的过程中如何防御XXX攻击
+GNN
+高效
+隐私
+防御XXX攻击
